@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.mqubits.reactive;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class ReactiveApplicationTests {
 
 	@Test
 	void contextLoads() {
